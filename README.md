@@ -1,2 +1,2 @@
-# MambaFormer
-Code for MambaFormer（The code is currently being organized）
+# MCCGM
+Code for MCCGM（The code is currently being organized）
